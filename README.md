@@ -1,3 +1,14 @@
+![panelDminNuevoDato](https://github.com/KakoBarahonaL/Evaluacion3/assets/131830985/69c561fb-d025-4b94-bc5b-f63e78d7d7f8)
+![panelAdm](https://github.com/KakoBarahonaL/Evaluacion3/assets/131830985/a24b162a-fa32-4e7e-8843-9806e1314d73)
+![modUsuario4](https://github.com/KakoBarahonaL/Evaluacion3/assets/131830985/0f9f3cc6-d7f4-4dca-b1cc-0c6330820e00)
+![modUsuario3](https://github.com/KakoBarahonaL/Evaluacion3/assets/131830985/56ab5abb-ed21-49fb-9cbd-010c8ef4d957)
+![modUsuario2](https://github.com/KakoBarahonaL/Evaluacion3/assets/131830985/0f496248-6a04-4100-83de-c7ffab84d074)
+![ModifUsuario](https://github.com/KakoBarahonaL/Evaluacion3/assets/131830985/28021c2a-6925-430e-a827-162342195b58)
+![login](https://github.com/KakoBarahonaL/Evaluacion3/assets/131830985/6c9c43b2-273e-41a4-afc9-ac557ea4417b)
+![ingresoUsuario1](https://github.com/KakoBarahonaL/Evaluacion3/assets/131830985/bafceab9-9663-4405-82c3-600b2ec487c7)
+![elimUsuario2](https://github.com/KakoBarahonaL/Evaluacion3/assets/131830985/1298e794-2d54-4ce2-9dd6-32358e30a8dd)
+![Uploading elimUsuario.png…]()
+
 # Evaluacion3
 Proyecto de desarrollo de sistema CRUD
 
@@ -30,5 +41,13 @@ codigo int primary key not null,
 descripcion Varchar (20) not null
 ); 
 
-insert into Perfil
+
+
 value ( 1, "Administrador"), ( 2, "Usuario") ;
+![confIngreso](https://github.com/KakoBarahonaL/Evaluacion3/assets/131830985/024deacc-160c-404d-b329-66d061121054)
+![Uploading BD.png…]()
+
+
+![Uploading confIngreso.png…]()
+![Uploading BD.png…]()
+![pantallaUsuario](https://github.com/KakoBarahonaL/Evaluacion3/assets/131830985/7dde86ea-9a85-4d6b-8473-aef06d0914de)
